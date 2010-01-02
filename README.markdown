@@ -3,13 +3,13 @@ RSvejo - Svejo.net API ruby wrapper
 
 Информация
 ----------
-RSvejo е библиотека за комуникация със http://svejo.net/.
-Повече информация можете да намерите тук: http://groups.google.com/group/svejo/web/api
+RSvejo е библиотека за комуникация със [Svejo.net](http://svejo.net/).
+Повече информация можете да намерите [тук](http://groups.google.com/group/svejo/web/api).
 
 Инсталация
 ----------
     >> sudo gem install rsvejo
-####  Изисквания : http://github.com/jnunemaker/httparty/
+####  Изисквания : [httparty](http://github.com/jnunemaker/httparty/)
 
 
 Описание на методите
@@ -53,4 +53,4 @@ RSvejo е библиотека за комуникация със http://svejo.n
 
 ## Относно
 
- * Автор  : Митко Костов <> http://mitkokostov.info
+ * Автор  : [Митко Костов](http://mitkokostov.info)
